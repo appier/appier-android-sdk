@@ -1,0 +1,3 @@
+include ':appier'
+include ':app'
+rootProject.name = "Appier"
